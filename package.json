@@ -1,0 +1,36 @@
+{
+  "name": "edgar_crawler",
+  "version": "1.0.0",
+  "description": "Crawls EDGAR, extracts and processes information",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurkohli/EDGAR-Crawler.git"
+  },
+  "author": "Gur Kohli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurkohli/EDGAR-Crawler/issues"
+  },
+  "homepage": "https://github.com/gurkohli/EDGAR-Crawler#readme",
+  "dependencies": {
+    "chrono-node": "^1.3.5",
+    "compromise": "^11.9.0",
+    "fast-xml-parser": "^3.11.1",
+    "html-entities": "^1.2.1",
+    "is-html": "^1.1.0",
+    "json2csv": "^4.1.6",
+    "lodash": "^4.17.10",
+    "npm": "^6.0.1",
+    "promise-throttle": "^1.0.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "sentence-tokenizer": "^1.0.0",
+    "striptags": "^3.1.1",
+    "syllable": "^3.0.0",
+    "tag-parser": "0.0.4-alpha"
+  }
+}

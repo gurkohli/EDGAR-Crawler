@@ -1,0 +1,1634 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ HepTygBuGuFSrbimYpJPbgsR5p9IXdwDPaWl07LKqC4GbjlnByfW2uJurxG3jAce
+ xrjy2l4RUCkiHW5o0960rQ==
+
+<SEC-DOCUMENT>0000950123-03-000221.txt : 20030114
+<SEC-HEADER>0000950123-03-000221.hdr.sgml : 20030114
+<ACCEPTANCE-DATETIME>20030110162507
+ACCESSION NUMBER:		0000950123-03-000221
+CONFORMED SUBMISSION TYPE:	SC 13D
+PUBLIC DOCUMENT COUNT:		2
+FILED AS OF DATE:		20030110
+GROUP MEMBERS:		AIG ASSET MANAGEMENT SERVICES INC
+GROUP MEMBERS:		AIG CAPITAL MANAGEMENT CORP
+GROUP MEMBERS:		AIG CAPITAL PARTNERS INC
+GROUP MEMBERS:		AIG GLOBAL EMERGING MARKETS FUND LLC
+GROUP MEMBERS:		AIG GLOBAL INVESTMENT GROUP INC
+GROUP MEMBERS:		AIG GLOBAL SPORTS AND ENTERTAINMENT FUND LP
+GROUP MEMBERS:		AIG GSEF INVESTMENTS LTD
+GROUP MEMBERS:		AIG GSEF LP
+GROUP MEMBERS:		GEM PARALLEL FUND LP
+
+SUBJECT COMPANY:
+
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			PRIMUS TELECOMMUNICATIONS GROUP INC
+		CENTRAL INDEX KEY:			0001006837
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				541708481
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-47735
+		FILM NUMBER:		03510956
+
+	BUSINESS ADDRESS:
+		STREET 1:		1700 OLD MEADOW ROAD
+		STREET 2:		STE 300
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+		BUSINESS PHONE:		7039022800
+
+	MAIL ADDRESS:
+		STREET 1:		8180 GREENSBORO DR
+		STREET 2:		SUITE 1100
+		CITY:			MCLEAN
+		STATE:			VA
+		ZIP:			22102
+
+FILED BY:
+
+	COMPANY DATA:
+		COMPANY CONFORMED NAME:			AMERICAN INTERNATIONAL GROUP INC
+		CENTRAL INDEX KEY:			0000005272
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		IRS NUMBER:				132592361
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC 13D
+
+	BUSINESS ADDRESS:
+		STREET 1:		70 PINE ST
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10270
+		BUSINESS PHONE:		2127707000
+
+	MAIL ADDRESS:
+		STREET 1:		70 PINE STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10270
+
+	FORMER COMPANY:
+		FORMER CONFORMED NAME:	AMERICAN INTERNATIONAL ENTERPRISES INC
+		DATE OF NAME CHANGE:	19700507
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC 13D
+<SEQUENCE>1
+<FILENAME>y82441sc13d.txt
+<DESCRIPTION>PRIMUS TELECOMMUNICATIONS/AIG GLOBAL SPORTS & ETC.
+<TEXT>
+<PAGE>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                  SCHEDULE 13D
+                    UNDER THE SECURITIES EXCHANGE ACT OF 1934
+
+                  PRIMUS TELECOMMUNICATIONS GROUP, INCORPORATED
+                                (Name of Issuer)
+
+                     COMMON STOCK, $0.01 PAR VALUE PER SHARE
+                         (Title of Class of Securities)
+
+                                   741929 10 3
+                                 (CUSIP Number)
+
+                                 Paul Hong, Esq.
+                 AIG Global Sports and Entertainment Fund, L.P.
+                   AIG Global Emerging Markets Fund, L.L.C.
+                             GEM Parallel Fund, L.P.
+                         c/o AIG Capital Partners, Inc.
+                                175 Water Street
+                               New York, NY 10038
+                            Tel. No.: (212) 458-2156
+                  (Name, Address and Telephone Number of Person
+                Authorized to Receive Notices and Communications)
+
+                                December 31, 2002
+             (Date of Event which Requires Filing of this Statement)
+
+If the filing person has previously filed a statement on Schedule 13G to report
+the acquisition which is the subject of this Schedule 13D, and is filing this
+Schedule because of Sections 240.13d-1(e), 240.13d-1(f) or 240.13d-1(g), check
+the following box. [__]
+
+Note: Schedules filed in paper format shall include a signed original and five
+copies of the Schedule, including all Exhibits. See Section 240.13d-7(b) for
+other parties to whom copies are to be sent.
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     AIG GLOBAL SPORTS AND ENTERTAINMENT FUND, L.P.  (I.R.S. NO. 52-2190010)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     CAYMAN ISLANDS
+
+             7.   Sole Voting Power
+Number of         8,243,800 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       8,243,800 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     8,243,800 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [X]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     11.3%
+
+14.  Type of Reporting Person (See Instructions)
+     PN
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     AIG GSEF, L.P.  (I.R.S. NO. 98-0210589)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     CAYMAN ISLANDS
+
+             7.   Sole Voting Power
+Number of         8,243,800 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       8,243,800 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     8,243,800 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [X]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     11.3%
+
+14.  Type of Reporting Person (See Instructions)
+     PN
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+      AIG GSEF INVESTMENTS, LTD.  (I.R.S. NO. 98-0210590)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     CAYMAN ISLANDS
+
+             7.   Sole Voting Power
+Number of         8,243,800 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       8,243,800 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     8,243,800 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [X]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     11.3%
+
+14.  Type of Reporting Person (See Instructions)
+     OO
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     AIG CAPITAL PARTNERS, INC. (I.R.S. NO. 13-3856440)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     DELAWARE
+
+             7.   Sole Voting Power
+Number of         8,243,800 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       8,243,800 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     8,243,800 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [X]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     11.3%
+
+14.  Type of Reporting Person (See Instructions)
+     CO
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     AIG GLOBAL EMERGING MARKETS FUND, L.L.C.  (I.R.S. NO. 13-3960880)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     DELAWARE
+
+             7.   Sole Voting Power
+Number of         7,454,840 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       7,454,840 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     7,454,840 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [X]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     10.3%
+
+14.  Type of Reporting Person (See Instructions)
+     OO
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     GEM PARALLEL FUND, L.P.  (I.R.S. NO. 52-2159897)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     DELAWARE
+
+             7.   Sole Voting Power
+Number of         788,920 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       788,920 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     788,920 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [X]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     1.2%
+
+14.  Type of Reporting Person (See Instructions)
+     PN
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     AIG CAPITAL MANAGEMENT CORP.  (I.R.S. NO. 13-3776802)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     DELAWARE
+
+             7.   Sole Voting Power
+Number of         8,243,760 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       8,243,760 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     8,243,760 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [X]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     11.3%
+
+14.  Type of Reporting Person (See Instructions)
+     CO
+
+
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     AIG ASSET MANAGEMENT SERVICES, INC.  (I.R.S. NO. 13-3805094)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     DELAWARE
+
+             7.   Sole Voting Power
+Number of         8,243,760 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       8,243,760 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     8,243,760 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [X]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     11.3%
+
+14.  Type of Reporting Person (See Instructions)
+     CO
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     AIG GLOBAL INVESTMENT GROUP, INC.  (I.R.S. NO. 13-3870953)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     DELAWARE
+
+             7.   Sole Voting Power
+Number of         16,487,560 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       16,487,560 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     16,487,560 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [ ]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     20.3%
+
+14.  Type of Reporting Person (See Instructions)
+     CO, HC
+<PAGE>
+CUSIP No.
+
+741929 10 3
+
+1.   Names of Reporting Persons.
+     I.R.S. Identification Nos. of above persons (entities only).
+
+     AMERICAN INTERNATIONAL GROUP, INC.  (I.R.S. NO. 13-2592361)
+
+2.   Check the Appropriate Box if a Member of a Group (See Instructions)
+     (a)   [ ]
+     (b)   [X]
+
+3.   SEC Use Only
+
+4.   Source of Funds (See Instructions)
+     OO
+
+5.   Check box if disclosure of legal proceedings is required pursuant to Item
+     2(d) or 2(e)  [ ]
+
+6.   Citizenship or Place of Organization
+
+     DELAWARE
+
+             7.   Sole Voting Power
+Number of         16,487,560 shares of common stock, par value $0.01 per share
+Shares
+Beneficially 8.   Shared Voting Power
+Owned by
+Each
+Reporting    9.   Sole Dispositive Power
+Person With       16,487,560 shares of common stock, par value $0.01 per share
+
+             10.  Shared Dispositive Power
+
+11.  Aggregate Amount Beneficially Owned by Each Reporting Person
+     16,487,560 shares of common stock, par value $0.01 per share
+
+12.  Check box if the Aggregate Amount in Row (11) Excludes Certain Shares
+     (See Instructions)  [ ]
+
+13.  Percent of Class Represented by Amount in Row (11)
+     20.3%
+
+14.  Type of Reporting Person (See Instructions)
+     CO, HC
+<PAGE>
+ITEM 1. SECURITY AND ISSUER
+
+This Schedule 13D relates to the shares of common stock, par value $0.01 per
+share (the "Common Stock") of Primus Telecommunications Group, Incorporated, a
+Delaware corporation (the "Issuer"). The address of the principal executive
+offices of the Issuer is 1700 Old Meadow Road, McLean, VA 22102.
+
+ITEM 2. IDENTITY AND BACKGROUND
+
+(a) through (c) and (f):
+
+      This Schedule 13D is being filed on behalf of the following entities
+      (collectively, the "Filers"):
+
+            (i)   AIG Global Sports and Entertainment Fund, L.P., a Cayman
+                  Islands limited partnership ("AIGGSEF"), having its principal
+                  office at Ugland House, South Church Street, George Town,
+                  Grand Cayman, Cayman Islands, is an investment fund engaged in
+                  the business of making proprietary investments;
+
+            (ii)  AIG GSEF, L.P., a Cayman Islands limited partnership
+                  ("AIGGSEFGP"), having its principal office at Ugland House,
+                  South Church Street, George Town, Grand Cayman, Cayman
+                  Islands, is the sole general partner of AIGGSEF;
+
+            (iii) AIG GSEF Investments, Ltd., a Cayman Islands limited company
+                  ("AIGGSEFI"), having its principal office at Ugland House,
+                  South Church Street, George Town, Grand Cayman, Cayman
+                  Islands, is the sole general partner of AIGGSEFGP;
+
+            (iv)  AIG Capital Partners, Inc., a Delaware corporation ("AIGCP"),
+                  having its principal office at 175 Water Street, New York, NY
+                  10038, is the sole shareholder of AIGGSEFI and is engaged in
+                  the business of originating and managing AIG's international
+                  private equity investments in emerging markets;
+
+            (v)   AIG Global Emerging Markets Fund, L.L.C., a Delaware limited
+                  liability company ("AIGGEM"), having its principal office at
+                  175 Water Street, New York, NY 10038, is an investment fund
+                  engaged in the business of making proprietary investments;
+
+            (vi)  GEM Parallel Fund, L.P., a Delaware limited partnership ("GEM
+                  Parallel"), having its principal office at 175 Water Street,
+                  New York, NY 10038, is an investment fund engaged in the
+                  business of making proprietary investments;
+
+            (vii) AIG Capital Management Corp., a Delaware corporation
+                  ("AIGCMC"), having its principal office at 70 Pine Street, New
+                  York, NY 10270, is the sole managing member of AIGGEM and is
+                  the sole general partner of GEM Parallel and is engaged in the
+                  business of organizing and managing the invested assets of
+                  institutional private equity investment funds;
+
+            (viii) AIG Asset Management Services, Inc., a Delaware corporation
+                  ("AIGAMS"), having its principal office at 70 Pine Street, New
+                  York, NY 10270, is the sole shareholder of AIGCMC and is a
+                  holding company;
+
+
+
+<PAGE>
+            (ix)  AIG Global Investment Group, Inc., a Delaware corporation
+                  ("AIGGIG"), having its principal office at 70 Pine Street,
+                  New York, NY 10270, is the sole shareholder of AIGCP and
+                  AIGAMS and is a holding company; and
+
+            (x)   American International Group, Inc., a Delaware corporation
+                  ("AIG"), having its principal office at 70 Pine Street, New
+                  York, NY 10270, is the sole shareholder of AIGGIG and is a
+                  holding company which through its subsidiaries engaged in a
+                  broad range of insurance and insurance-related activities and
+                  financial services in the United States and abroad.
+
+      Starr International Company, Inc., a private holding company incorporated
+      in Panama ("SICO"), The Starr Foundation, a New York not-for-profit
+      corporation ("The Starr Foundation"), and C.V. Starr & Co, Inc., a
+      Delaware corporation ("Starr"), have the right to vote approximately 12%,
+      2.3% and 1.8%, respectively, of the outstanding common stock of AIG. The
+      principal executive offices of SICO are located at 29 Richmond Road,
+      Pembroke, Bermuda. The principal executive offices of The Starr Foundation
+      and Starr are located at 70 Pine Street, New York, NY 10270.
+
+      The names of the executive officers and directors (collectively, "Covered
+      Persons") of each of AIG, AIGGIG, AIGCP, AIGGSEFI, AIGAMS, AIGCMC, SICO,
+      The Starr Foundation and Starr, their business addresses and principal
+      occupations are set forth in Annex A attached hereto, which is
+      incorporated herein by reference in its entirety. The business address
+      indicated for each Covered Person is also the address of the principal
+      employer for such Covered Person. Each of the Covered Persons is a United
+      States citizen, except for Messrs. Manton and Tse, who are British
+      Subjects, Mr. Johnson who is a British National and Mr. Cohen who is a
+      Canadian citizen.
+
+(d) and (e):
+
+      During the last five years, none of the Filers, SICO, The Starr Foundation
+      or Starr nor, to the best knowledge of each such Filer, SICO, The Starr
+      Foundation or Starr, their respective Covered Persons has (i) been
+      convicted in a criminal proceeding (excluding traffic violations or
+      similar misdemeanors) or (ii) been a party to a civil proceeding of a
+      judicial or administrative body of competent jurisdiction and as a result
+      of such proceeding has been or is subject to a judgment, decree or final
+      order enjoining future violations of, or prohibiting or mandating
+      activities subject to, federal or state securities laws or finding any
+      violation with respect to such laws.
+
+ITEM 3. SOURCE AND AMOUNT OF FUNDS OR OTHER CONSIDERATION.
+
+On December 31, 2002, pursuant to that certain Stock Purchase Agreement (the
+"Purchase Agreement") dated as of such date by and among the Issuer, AIGGSEF,
+AIGGEM, GEM Parallel (AIGGSEF, AIGGEM and GEM Parallel being referred to herein
+as the "Lead Investors") and Duke Hotels Limited ("Duke," and together with the
+Lead Investors, the "Investors"), which Purchase Agreement is filed herewith as
+Exhibit 2 and incorporated herein by reference in its entirety, (i) AIGGSEF
+purchased 206,095 shares of the Issuer's Series C Convertible Preferred Stock,
+par value $0.01 per share (the "Series C Preferred"), for
+<PAGE>
+$15,458,475.73, (ii) AIGGEM purchased 186,371 shares of Series C Preferred for
+$13,979,099.60, and (iii) GEM Parallel purchased 19,723 shares of Series C
+Preferred for $1,479,376.13. Each of AIGGSEF, AIGGEM and GEM Parallel obtained
+the funds used to purchase their respective shares of Series C Preferred by
+contributions from their respective members or general and limited partners, as
+applicable. Each share of Series C Preferred is initially convertible at any
+time at the option of the holder thereof into forty (40) shares of Common Stock.
+
+ITEM 4. PURPOSE OF TRANSACTION.
+
+Each of AIGGSEF, AIGGEM, GEM Parallel Fund acquired the securities reported
+herein for investment purposes and may, from time to time, depending on such
+Investor's evaluation of the market for the Common Stock, other opportunities
+available to it, its financial requirements and other possible future
+developments, decide to increase or decrease its holdings of the Series C
+Preferred or the Common Stock into which the Series C Preferred is convertible,
+including, without limitation, by converting all or any portion of the shares of
+Series C Preferred into shares of Common Stock in accordance with the terms of
+the Certificate of Designation in respect of the Series C Preferred filed
+herewith as Exhibit 3, which is incorporated herein by reference in its entirety
+(the "Certificate of Designation"). The response to Item 3 hereof is
+incorporated herein by reference in its entirety.
+
+Pursuant to the terms of the Purchase Agreement, which is incorporated herein by
+reference in its entirety, the Lead Investors are obligated to purchase up to an
+aggregate of 121,097 additional shares of Series C Preferred, as subject to
+adjustment in the event of stock splits and similar events, at one or more
+Subsequent Closings (as defined in the Purchase Agreement) for an aggregate
+maximum purchase price of $9,083,048.54 in the event that certain conditions
+specified in the Purchase Agreement are satisfied, including satisfaction of one
+or more of the conditions specified in Section 5.16 of the Purchase Agreement.
+The maximum number of shares of Series C Preferred, as subject to adjustment in
+the event of stock splits and similar events, that each of AIGGSEF, AIGGEM and
+GEM Parallel Fund is obligated to purchase is 60,548, 54,754 and 5,795,
+respectively. The maximum aggregate purchase price payable by each of AIGGSEF,
+AIGGEM and GEM Parallel Fund for such shares is $4,541,524.27, $4,106,900.40 and
+$434,623.87, respectively.
+
+Pursuant to the terms of the Certificate of Designation, the Investors currently
+have the right, among other rights set forth in the Certificate of Designation,
+to elect and appoint one director (the "Preferred Director") to the Board of
+Directors of the Issuer, to approve the authorization or issuance of certain
+equity securities of the Issuer that are senior to or pari passu with shares of
+Series C Preferred, to approve any amendment to the organizational documents of
+the Issuer that would materially and adversely affect the rights of the holders
+of shares of Series C Preferred and to exercise preemptive rights on a pro rata
+basis with the other Investors in connection with certain future issuances of
+securities by the Issuer. In addition, without the majority approval of the
+Preferred Director and the other non-management directors of the Issuer, voting
+together as a group, the Issuer may not undertake certain corporate or other
+actions as specified in the Certificate of Designation. The Investors are also
+entitled to performance adjustment payments under certain circumstances, which
+may be payed in cash or by adjusting the conversion ratio
+<PAGE>
+applicable to the Series C Preferred in the discretion of the Board of Directors
+of the Issuer, and weighted average anti-dilution protection in the event of
+certain dilutive issuances by the Issuer, which may result in additional
+adjustments to the conversion ratio applicable to the Series C Preferred.
+Although the extent to which the conversion ratio may be increased is limited
+due to a floor on the Effective Conversion Price (as defined in the Certificate
+of Designation), the foregoing rights may be deemed to impede the acquisition of
+control of the Issuer by a third-party.
+
+The Investors have exercised the right to appoint and elect one director and
+have appointed and elected Mr. Paul G. Pizzani as a director of the Issuer. As a
+result, the size of the Board of Directors of the Issuer has been increased to
+eight directors. So long as the Investors continue to hold such right in
+accordance with the terms of the Certificate of Designation, it is anticipated
+that such right will continue to be exercised by the Investors in the future.
+
+As a result of the transactions contemplated by the Purchase Agreement, the
+capitalization of the issuer has changed and is subject to further change in the
+event that additional shares of Series C Preferred are issued pursuant to the
+terms of the Purchase Agreement upon satisfaction of the applicable conditions
+specified in the Purchase Agreement. In addition, the capitalization of the
+Issuer is subject to change upon any mandatory or optional conversion of all or
+any portion of the Series C Preferred into shares of Common Stock in accordance
+with the terms and provisions of the Certificate of Designation.
+
+Pursuant to that certain Registration Rights Agreement (the "Registration Rights
+Agreement"), filed herewith as Exhibit 4 and incorporated herein by reference in
+its entirety, by and among the Issuer and each of the Investors, each of the
+Investors has been granted certain demand and "piggyback" registration rights
+entitling such Investors, subject to the limitations set forth therein, to have
+their respective Registrable Securities (as defined therein) registered under
+the Securities Act of 1933, as amended. Upon the exercise of such rights, the
+Investors may dispose of Common Stock of the Issuer received upon conversion of
+shares of Series C Preferred.
+
+The foregoing summary of certain provision of the Certificate of Designation,
+the Purchase Agreement and the Registration Rights Agreement does not purport to
+be complete and is qualified in its entirety by reference to such documents as
+filed herewith as Exhibits.
+
+Except as contemplated by the Certificate of Designation, the Purchase Agreement
+and the Registration Rights Agreement or as otherwise set forth in this Item 4,
+none of the Filers, SICO, The Starr Foundation or Starr nor, to the best
+knowledge of each such Filer, SICO, The Starr Foundation or Starr, their
+respective Covered Persons has any present plans or proposals which relate to or
+would result in:
+
+      (i)   the acquisition by any person of additional securities of the
+            Issuer, or the disposition of securities of the Issuer;
+
+      (ii)  an extraordinary corporate transaction, such as a merger,
+            reorganization or liquidation, involving the Issuer or any of is
+            subsidiaries;
+
+      (iii) a sale or transfer of a material amount of assets of the Issuer or
+            any of its subsidiaries;
+<PAGE>
+      (iv)  any change in the present Board of Directors or management of the
+            Issuer, including any plans or proposals to change the number or
+            term of directors or to fill any existing vacancies on the Board
+            of Directors;
+
+      (v)   any material change in the present capitalization or dividend policy
+            of the Issuer;
+
+      (vi)  any other material change in the Issuer's business or corporate
+            structure;
+
+      (vii) changes in the Issuer's Certificate of Incorporation, By-laws or
+            instruments corresponding thereto or other actions which may impede
+            the acquisition of control of the issuer by any person;
+
+      (viii)causing a class of securities of the Issuer to cease to be quoted
+            on The Nasdaq Stock Market, Inc.
+
+      (ix)  a class of equity securities of the Issuer becoming eligible for
+            termination of registration pursuant to Section 12(g)(4) of the
+            Exchange Act; or
+
+      (x)   any action similar to any of those enumerated above.
+
+ITEM 5. INTEREST IN SECURITIES OF THE ISSUER.
+
+(a) and (b):
+
+      The information required by these paragraphs is set forth in Items 7
+      through 11 and 13 of each of the cover pages of this Schedule 13D and is
+      incorporated herein by reference. Such information is based upon the
+      number of shares of Common Stock represented by the Issuer to be issued
+      and outstanding as of December 31, 2002.
+
+(c):
+
+      Other than the transactions contemplated by the Purchase Agreement and
+      described in response to Item 4 hereof, none of the Filers, SICO, The
+      Starr Foundation or Starr nor, to the best knowledge of each such Filer,
+      SICO, The Starr Foundation or Starr, their respective Covered Persons has
+      effected any transactions in the Common Stock or the Series C Preferred
+      during the past sixty days.
+
+(d) and (e):
+
+      Not applicable.
+
+ITEM 6. CONTRACTS, ARRANGEMENTS, UNDERSTANDINGS OR RELATIONSHIPS WITH RESPECT TO
+SECURITIES OF THE ISSUER.
+
+The only contracts, arrangements, understandings or relationships that currently
+exist between any of the Filers or any of the Covered Persons and any other
+person with respect to securities of the Issuer are the Purchase Agreement and
+the Registration Rights Agreement, each of which is filed herewith as an Exhibit
+and is incorporated herein in its entirety by reference. Except as otherwise set
+forth in this Schedule 13D and the Exhibits filed herewith, there are no
+contracts,
+<PAGE>
+arrangements, understandings or relationships between any of the Filers or any
+of the Covered Persons and any other person with respect to any securities of
+the Issuer, including any contract, arrangement, understanding or relationship
+concerning the transfer or the voting of any securities of the Issuer, finder's
+fees, joint ventures, loan or option arrangements, puts or calls, guarantees of
+profits, division of profits or loss, or the giving or withholding of proxies.
+
+ITEM 7. MATERIAL TO BE FILED AS EXHIBITS.
+
+1.    Joint Filing Agreement by and among the Filers as required by Rule
+      13d-1(k)(1).
+
+2.    Stock Purchase Agreement, dated as of December 31, 2002, by and among the
+      Issuer and each of the Investors (incorporated by reference to Exhibit
+      99.1 to the Issuer's Current Report on Form 8-K, as filed with the
+      Securities and Exchange Commission on January 2, 2003).
+
+3.    Certificate of Designation in respect of the Series C Preferred
+      (incorporated by reference to Exhibit 4.1 to the Issuer's Current Report
+      on Form 8-K, as filed with the Securities and Exchange Commission on
+      January 2, 2003).
+
+4.    Registration Rights Agreement, dated as of December 31, 2002, by and among
+      the Issuer and each of the Investors (incorporated by reference to Exhibit
+      99.2 to the Issuer's Current Report on Form 8-K, as filed with the
+      Securities and Exchange Commission on January 2, 2003).
+
+
+<PAGE>
+                                    SIGNATURE
+
+After reasonable inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+Date: January 10, 2003                     AIG GLOBAL SPORTS AND
+                                           ENTERTAINMENT FUND, L.P.
+
+                                           By: AIG GSEF, L.P.
+                                                Its general partner
+
+                                               By: AIG GSEF Investments, Ltd.,
+                                                    its general partner
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Director
+
+Date: January 10, 2003                     AIG GSEF, L.P.
+
+                                           By: AIG GSEF Investments, Ltd.,
+                                                its general partner
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Director
+
+Date: January 10, 2003                     AIG GSEF INVESTMENTS, LTD.
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Director
+
+Date: January 10, 2003                     AIG CAPITAL PARTNERS, INC.
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: President
+<PAGE>
+Date: January 10, 2003                     AIG GLOBAL EMERGING
+                                           MARKETS FUND, L.L.C.
+
+                                           By: AIG Capital Management Corp.,
+                                                its managing member
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Managing Director and
+                                                     Vice President
+
+Date: January 10, 2003                     GEM PARALLEL FUND, L.P.
+
+                                           By: AIG Capital Management Corp.,
+                                                its general partner
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Managing Director
+<PAGE>
+Date: January 10, 2003                     AIG CAPITAL MANAGEMENT CORP.
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Managing Director
+
+Date: January 10, 2003                     AIG ASSET MANAGEMENT SERVICES, INC.
+
+                                           By:  /s/ Win J. Neuger
+                                              ---------------------------
+                                              Name:  Win J. Neuger
+                                              Title: Director & President
+
+Date: January 10, 2003                     AIG GLOBAL INVESTMENT GROUP, INC.
+
+                                           By:  /s/ Win J. Neuger
+                                              ---------------------------
+                                              Name:  Win J. Neuger
+                                              Title: Chairman & Chief
+                                                     Executive Officer
+
+
+Date: January 10, 2003                     AMERICAN INTERNATIONAL GROUP, INC.
+
+                                           By:  /s/ Kathleen E. Shannon
+                                              ---------------------------
+                                              Name:  Kathleen E. Shannon
+                                              Title: Vice President &
+                                                     Secretary
+<PAGE>
+                                                                         ANNEX A
+
+                       AMERICAN INTERNATIONAL GROUP, INC.
+
+                                    DIRECTORS
+
+M. Bernard Aidinoff                  Sullivan & Cromwell
+                                     125 Broad Street
+                                     New York, New York  10004
+
+Eli Broad                            SunAmerica Inc.
+                                     1 SunAmerica Center
+                                     1999 Avenue of the Stars
+                                     Los Angeles, California 90067
+
+Pei-yuan Chia                        298 Bedford - Banksville Road
+                                     Bedford, New York   10506
+
+Marshall A. Cohen                    Cassels, Brock & Blackwell
+                                     40 King Street West 20th Floor
+                                     Toronto, Ontario  M5H 3C2
+
+Barber B. Conable, Jr.               P.O. Box 218
+                                     Alexander, New York  14005
+
+Martin S. Feldstein                  National Bureau of Economic Research, Inc.
+                                     1050 Massachusetts Avenue
+                                     Cambridge, Massachusetts  02138
+
+Ellen V. Futter                      American Museum of Natural History
+                                     Central Park West at 79th Street
+                                     New York, New York  10024
+
+M.R. Greenberg                       American International Group, Inc.
+                                     70 Pine Street
+                                     New York, New York  10270
+
+Carla A. Hills                       Hills & Company
+                                     1200 19th Street, N.W. - 5th Floor
+                                     Washington, DC  20036
+
+Richard C. Holbrooke                 The Council on Foreign Relations
+                                     58 E. 68th Street
+                                     New York, New York  10021
+
+Frank J. Hoenemeyer                  7 Harwood Drive
+                                     Madison, New Jersey  07940
+<PAGE>
+Edward E. Matthews                   American International Group, Inc.
+                                     70 Pine Street
+                                     New York, New York  10270
+
+Howard I. Smith                      American International Group, Inc.
+                                     70 Pine Street
+                                     New York, New York  10270
+
+Martin J. Sullivan                   American International Group, Inc.
+                                     70 Pine Street
+                                     New York, New York  10270
+
+Thomas R. Tizzio                     American International Group, Inc.
+                                     70 Pine Street
+                                     New York, New York  10270
+
+Edmund S.W. Tse                      American International Assurance Co., Ltd.
+                                     1 Stubbs Road
+                                     Hong Kong
+
+Jay S. Wintrob                       SunAmerica Inc.
+                                     1 SunAmerica Center
+                                     1999 Avenue of the Stars
+                                     Los Angeles, California 90067
+
+Frank G. Wisner                      American International Group, Inc.
+                                     70 Pine Street
+                                     New York, New York  10270
+
+Frank G. Zarb                        The NASDAQ Stock Market, Inc.
+                                     Four Times Square
+                                     New York, New York  10036
+
+                       AMERICAN INTERNATIONAL GROUP, INC.
+
+                               EXECUTIVE OFFICERS
+
+M.R. Greenberg                       Chairman & Chief Executive Officer
+70 Pine Street
+New York, New York  10270
+
+Edward E. Matthews                   Senior Vice Chairman - Investments &
+70 Pine Street                       Financial Services
+New York, New York  10270
+<PAGE>
+Thomas R. Tizzio                     Senior Vice Chairman - General Insurance
+70 Pine Street
+New York, New York  10270
+
+Edmund S.W. Tse                      Senior Vice Chairman & Co-Chief Operating
+American International Assurance     Officer
+Co., Ltd.
+1 Stubbs Road
+Hong Kong
+
+Howard I. Smith                      Vice Chairman, Chief Administrative Officer
+70 Pine Street                       & Chief Financial Officer
+New York, New York  10270
+
+Martin J. Sullivan                   Vice Chairman & Co-Chief Operating Officer
+70 Pine Street
+New York, New York  10270
+
+Frank G. Wisner                      Vice Chairman - External Affairs
+70 Pine Street
+New York, New York  10270
+
+John A. Graf                         Executive Vice President - Retirement
+2929 Allen Parkway                   Savings
+Houston, Texas  77019
+
+Donald Kanak                         Executive Vice President & Chief Executive
+American International Building      Officer of AIG Companies in Japan
+1-3 Marunouchi, 1-chome
+Chiyoda-ku, Tokyo, Japan
+
+Rodney O. Martin, Jr.                Executive Vice President - Life Insurance
+2929 Allen Parkway
+Houston, Texas  77019
+
+Win J. Neuger                        Executive Vice President & Chief Investment
+70 Pine Street                       Officer
+New York, New York  10270
+
+Jay S. Wintrob                       Executive Vice President - Retirement
+1 SunAmerica Center                  Savings
+1999 Avenue of the Stars
+Los Angeles, California  90067
+
+Kristian P. Moor                     Executive Vice President - Domestic General
+70 Pine Street                       Insurance
+New York, New York  10270
+<PAGE>
+R. Kendall Nottingham                Executive Vice President - Life Insurance
+70 Pine Street
+New York, New York  10270
+
+Robert B. Sandler                    Executive Vice President - Senior Casualty
+70 Pine Street                       Actuary & Senior Claims Officer
+New York, New York  10270
+
+William N. Dooley                    Senior Vice President - Financial Services
+70 Pine Street
+New York, New York  10270
+
+Lawrence W. English                  Senior Vice President - Administration
+70 Pine Street
+New York, New York  10270
+
+Axel I. Freudmann                    Senior Vice President - Human Resources
+70 Pine Street
+New York, New York  10270
+
+Richard W. Scott                     Senior Vice President - Investments
+70 Pine Street
+New York, New York  10270
+
+Ernest T. Patrikis                   Senior Vice President & General Counsel
+70 Pine Street
+New York, New York  10270
+
+Steven J. Bensinger                  Vice President & Treasurer
+70 Pine Street
+New York, New York  10270
+
+Michael J. Castelli                  Vice President & Controller
+70 Pine Street
+New York, New York  10270
+
+Keith Duckett                        Vice President & Director of Internal Audit
+70 Pine Street
+New York, New York  10270
+
+Peter K. Lathrop                     Vice President & Director of Taxes
+70 Pine Street
+New York, New York  10270
+
+Robert E. Lewis                      Vice President & Chief Credit Officer
+70 Pine Street
+New York, New York  10270
+<PAGE>
+Charles M. Lucas                     Vice President & Director of Market Risk
+70 Pine Street                       Management
+New York, New York  10270
+
+Steven A. Rautenberg                 Vice President - Communications
+70 Pine Street
+New York, New York  10270
+
+Kathleen E. Shannon                  Vice President and Secretary
+70 Pine Street
+New York, New York  10270
+
+Brian T. Schreiber                   Vice President - Strategic Planning
+70 Pine Street
+New York, New York  10270
+
+
+                        AIG GLOBAL INVESTMENT GROUP, INC.
+
+Edward E. Matthews                   Director
+70 Pine Street
+New York, New York  10270
+
+Win J. Neuger                        Director, Chairman of the Board of
+70 Pine Street                       Directors and Chief Executive Officer
+New York, New York  10270
+
+Ernest T. Patrikis                   Director
+70 Pine Street
+New York, New York  10270
+
+
+                           AIG CAPITAL PARTNERS, INC.
+
+William N. Dooley                    Director and Vice Chairman of the Board of
+70 Pine Street                       Directors
+New York, New York  10270
+
+Ronald A. Latz                       Director
+70 Pine Street
+New York, New York  10270
+
+Edward E. Matthews                   Director and Chairman of the Board of
+70 Pine Street                       Directors
+New York, New York  10270
+<PAGE>
+Larry K. Mellinger                   Director
+175 Water Street, 23rd Floor
+New York, New York  10038
+
+Ernest T. Patrikis                   Director
+70 Pine Street
+New York, New York  10270
+
+Peter M. Yu                          Director, President and Chief Executive
+175 Water Street, 23rd Floor         Officer
+New York, New York  10038
+
+Cesar C. Zalamea                     Director and Vice Chairman of the Board
+175 Water Street, 23rd Floor         of Directors
+New York, New York  10038
+
+
+                           AIG GSEF INVESTMENTS, LTD.
+
+Peter M. Yu                          Director
+175 Water Street, 23rd Floor
+New York, New York  10038
+
+
+                       AIG ASSET MANAGEMENT SERVICES, INC.
+
+Edward E. Matthews                   Director and Chairman
+70 Pine Street
+New York, New York  10270
+
+Win J. Neuger                        Director and President
+70 Pine Street
+New York, New York  10270
+
+
+                          AIG CAPITAL MANAGEMENT CORP.
+
+Steven J. Bensinger                  Director
+70 Pine Street
+New York, New York  10270
+
+William N. Dooley                    Director
+70 Pine Street
+New York, New York  10270
+<PAGE>
+
+Ronald A. Latz                       Director
+70 Pine Street
+New York, New York  10270
+
+Win J. Neuger                        Director, Chairman of the Board of
+70 Pine Street                       Directors and Chief Investment Officer
+New York, New York  10270
+
+Helen Stefanis                       Director and President
+70 Pine Street
+New York, New York  10270
+
+
+                        STARR INTERNATIONAL COMPANY, INC.
+                         EXECUTIVE OFFICERS & DIRECTORS
+
+William N. Dooley                    Director
+70 Pine Street
+New York, New York 10270
+
+M. R. Greenberg                      Director & Chairman of the Board
+70 Pine Street
+New York, New York 10270
+
+Joseph C. H. Johnson                 Director & President
+American International Building
+29 Richmond Road
+Pembroke HM08 Bermuda
+
+Donald Kanak                         Director
+American International Building
+1-3 Marunouchi, 1-chome
+Chiyoda-ku, Tokyo, Japan
+
+Kevin Kelley                         Director
+70 Pine Street
+New York, New York 10270
+
+Edward E. Matthews                   Director
+70 Pine Street
+New York, New York 10270
+
+Kristian P. Moor                     Director
+70 Pine Street
+New York, New York 10270
+<PAGE>
+L. Michael Murphy                    Director, Vice President & Secretary
+American International Building
+29 Richmond Road
+Pembroke HM08 Bermuda
+
+Win J. Neuger                        Director
+70 Pine Street
+New York, New York 10270
+
+R. Kendall Nottingham                Director
+70 Pine Street
+New York, New York 10270
+
+Robert M. Sandler                    Director
+70 Pine Street
+New York, New York 10270
+
+Howard I. Smith                      Director
+70 Pine Street
+New York, New York 10270
+
+Martin J. Sullivan                   Director
+70 Pine Street
+New York, New York 10270
+
+Thomas R. Tizzio                     Director
+70 Pine Street
+New York, New York 10270
+
+Edmund S.W. Tse                      Director
+1 Stubbs Road
+Hong Kong
+
+Jay S. Wintrob                       Director
+1 SunAmerica Center
+Los Angeles, California 90067
+
+                              THE STARR FOUNDATION
+                              OFFICERS & DIRECTORS
+
+M.R. Greenberg                       Director and Chairman
+70 Pine Street
+New York, New York 10270
+
+Florence A. Davis                    Director and President
+70 Pine Street
+New York, New York 10270
+<PAGE>
+Marion I. Breen                      Director and Vice President
+70 Pine Street
+New York, New York 10270
+
+T.C. Hsu                             Director
+70 Pine Street
+New York, New York 10270
+
+Edwin A.G. Manton                    Director
+70 Pine Street
+New York, New York 10270
+
+Edward E. Matthews                   Director
+70 Pine Street
+New York, New York 10270
+
+John J. Roberts                      Director
+70 Pine Street
+New York, New York 10270
+
+Howard I. Smith                      Director and Treasurer
+70 Pine Street
+New York, New York 10270
+
+Ernest E. Stempel                    Director
+American International Building
+29 Richmond Road
+Pembroke HM08 Bermuda
+
+Edmund S. W. Tse                     Director
+1 Stubbs Road
+Hong Kong
+
+Gladys Thomas                        Vice President and Secretary
+70 Pine Street
+New York, New York 10270
+
+
+                             C.V. STARR & CO., INC.
+                              OFFICERS & DIRECTORS
+
+William N. Dooley                    Director
+70 Pine Street
+New York, New York 10270
+
+M.R. Greenberg                       Director, President & Chief Executive
+70 Pine Street                       Officer
+New York, New York 10270
+<PAGE>
+Donald Kanak                         Director
+American International Building
+1-3 Marunouchi, 1-chome
+Chiyoda-ku, Tokyo, Japan
+
+Kevin Kelley                         Director
+70 Pine Street
+New York, New York 10270
+
+Edward E. Matthews                   Director & Senior Vice President
+70 Pine Street
+New York, New York 10270
+
+Kristian P. Moor                     Director
+70 Pine Street
+New York, New York 10270
+
+Win J. Neuger                        Director
+70 Pine Street
+New York, New York 10270
+
+R. Kendall Nottingham                Director
+70 Pine Street
+New York, New York 10270
+
+Robert M. Sandler                    Director & Vice President
+70 Pine Street
+New York, New York 10270
+
+Howard I. Smith                      Director & Senior Vice President
+70 Pine Street
+New York, New York 10270
+
+Martin J. Sullivan                   Director
+70 Pine Street
+New York, New York 10270
+
+Thomas R. Tizzio                     Director & Senior Vice President
+70 Pine Street
+New York, New York 10270
+
+Edmund S.W. Tse                      Director & Senior Vice President
+1 Stubbs Road
+Hong Kong
+<PAGE>
+Jay S. Wintrob                       Director
+1 SunAmerica Center
+Los Angeles, California 90067
+
+Michael D. Warantz                   Treasurer
+70 Pine Street
+New York, New York 10270
+
+Kathleen E. Shannon                  Secretary
+70 Pine Street
+New York, New York 10270
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>y82441exv99w1.txt
+<DESCRIPTION>JOINT FILING AGREEMENT
+<TEXT>
+<PAGE>
+                                                                       EXHIBIT 1
+
+                            Agreement of Joint Filing
+
+      In accordance with Rule 13d-1(f), promulgated under the Securities
+Exchange Act of 1934, as amended, each of the undersigned hereby agrees to the
+joint filing on behalf of each of them of a Statement on Schedule 13D, and any
+amendments thereto, with respect to the Common Stock, $0.01 par value per share,
+of Primus Telecommunications Group, Incorporated and that this Agreement may be
+included as an Exhibit to such filing.
+
+      This Agreement may be executed in any number of counterparts, each of
+which shall be deemed to be an original and all of which together shall be
+deemed to constitute one and the same Agreement.
+
+      IN WITNESS WHEREOF, each of the undersigned hereby executes this Agreement
+as of January 10, 2003.
+
+
+
+                                           AIG GLOBAL SPORTS AND
+                                           ENTERTAINMENT FUND, L.P.
+
+                                           By: AIG GSEF, L.P.
+                                                Its general partner
+
+                                               By: AIG GSEF Investments, Ltd.,
+                                                    its general partner
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Director
+
+                                           AIG GSEF, L.P.
+
+                                           By: AIG GSEF Investments, Ltd.,
+                                                its general partner
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Director
+
+                                           AIG GSEF INVESTMENTS, LTD.
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Director
+<PAGE>
+                                           AIG CAPITAL PARTNERS, INC.
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: President
+
+
+                                           AIG GLOBAL EMERGING
+                                           MARKETS FUND, L.L.C.
+
+                                           By: AIG Capital Management Corp.,
+                                                its managing member
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Managing Director and
+                                                     Vice President
+
+                                           GEM PARALLEL FUND, L.P.
+
+                                           By: AIG Capital Management Corp.,
+                                                its general partner
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Managing Director
+
+
+                                           AIG CAPITAL MANAGEMENT CORP.
+
+                                           By:  /s/ Peter Yu
+                                              ---------------------
+                                              Name:  Peter Yu
+                                              Title: Managing Director
+
+                                           AIG ASSET MANAGEMENT SERVICES, INC.
+
+                                           By:  /s/ Win J. Neuger
+                                              ---------------------------
+                                              Name:  Win J. Neuger
+                                              Title: Director & President
+<PAGE>
+                                           AIG GLOBAL INVESTMENT GROUP, INC.
+
+                                           By:  /s/ Win J. Neuger
+                                              ---------------------------
+                                              Name:  Win J. Neuger
+                                              Title: Chairman & Chief
+                                                     Executive Officer
+
+
+                                           AMERICAN INTERNATIONAL GROUP, INC.
+
+                                           By:  /s/ Kathleen E. Shannon
+                                              ---------------------------
+                                              Name:  Kathleen E. Shannon
+                                              Title: Vice President &
+                                                     Secretary
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
